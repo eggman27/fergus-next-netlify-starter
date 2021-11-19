@@ -1,13 +1,19 @@
 body {
     background-color: lightblue;
+    font-family: verdana;
 }
 
 h1 {
     color: white;
     text-align: center;
+    font-size: 40px;
+}
+
+h3 {
+    color: orange;
+    font-size: 30px;
 }
 
 p {
-    font-family: verdana;
     font-size: 20px;
 }
