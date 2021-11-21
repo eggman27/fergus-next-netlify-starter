@@ -1,12 +1,12 @@
 body {
-    background-color: lightblue;
-    font-family: verdana;
+    background-color: rgb(153, 43, 175);
+    font-family: "Flexo-Medium",arial,sans-serif;
 }
 
 h1 {
-    color: white;
-    text-align: center;
-    font-size: 40px;
+    color: #30a7d7;
+    text-align: left;
+    font-size: 60px;
 }
 
 h3 {
@@ -16,4 +16,9 @@ h3 {
 
 p {
     font-size: 20px;
+}
+
+img {
+    width: 400px;
+    height: 400px;
 }
